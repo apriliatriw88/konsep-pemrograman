@@ -1,0 +1,5 @@
+print (type(0.1))
+print (type(2.5))
+print (type(4.0))
+print (type(8.9))
+print (type(3.4))
