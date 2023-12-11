@@ -1,0 +1,4 @@
+masukan nama : alex 
+ masukan tanggal lahir : 19 november 2002 
+ masukan asal daerah : yogyakarta 
+ 

@@ -1,0 +1,2 @@
+Belajar nulis di file 
+nulis di file dengan mode write 
