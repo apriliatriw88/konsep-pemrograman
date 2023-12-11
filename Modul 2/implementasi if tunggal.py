@@ -1,0 +1,1 @@
+x=3if (x%2)==1 :	print("Bilangan ganjil")x=3if (x%2)==1 :	print("Bilangan ganjil")if x==3 :	print("Angka 3")

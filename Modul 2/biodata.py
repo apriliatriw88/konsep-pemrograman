@@ -1,0 +1,5 @@
+nama=input("Masukan nama : ")
+npm=int(input("Masukan npm : "))
+prodi=input("Masukan prodi : ")
+print("=======Biodata=======")
+print("nama : ", nama ,"\nnpm : ", npm ,"\nprodi : ",prodi)
