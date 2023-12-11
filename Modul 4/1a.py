@@ -1,0 +1,15 @@
+print("Immutable , ")
+tanggal_lahir=(1861-10-23)
+print(tanggal_lahir)
+print(id(tanggal_lahir))
+tanggal_lahir += int(7,)
+print(tanggal_lahir)
+print(id(tanggal_lahir))
+
+print("Mutable , ")
+kemampuan={"bersyair", "menyanyi", "suka berpura pura"}
+print(kemampuan)
+print(id(kemampuan))
+kemampuan.add("tertawa")
+print(kemampuan)
+print(id(kemampuan))
